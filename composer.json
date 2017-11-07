@@ -1,6 +1,6 @@
 {
-    "name": "robrichards/wse-php",
-    "description": "Libraries for adding WS-* support to ext/soap in PHP.",
+    "name": "gyr9i/wse-php",
+    "description": "It's fork of https://github.com/robrichards/wse-php. Libraries for adding WS-* support to ext/soap in PHP.",
     "authors": [
         {
             "name": "Rob Richards",
